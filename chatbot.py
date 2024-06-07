@@ -1,4 +1,4 @@
-# importing openai library for AI chatbot 
+# importing openai library for AI chatbot program
 import openai
 
 # importing os module for environment variables
